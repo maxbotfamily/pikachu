@@ -2,10 +2,10 @@
     "name": "WhatsAsenaDuplicated",
     "description": "WhatsAsena project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
     "logo": "https://avatars.githubusercontent.com/u/83832372?v=4",
-    "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/ameer-kallumthodi/pikachu",
-    "website":   "https://t.me/phaticusthiccy",
-    "success_url": "https://t.me/AsenaSupport",
+    "keywords": ["whatsapp", "userbot", "BRO", "WhatsAsena", "bot", "api", "ai"],
+    "repository": "https://github.com/maxbotfamily/pikachu.git",
+    "website":   "https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh",
+    "success_url": "https://chat.whatsapp.com/LvlMjqqI1563Gaeu2ReTOh ",
     "stack": "container",
     "env": {
         "ASENA_SESSION": {
